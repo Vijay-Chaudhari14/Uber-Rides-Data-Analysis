@@ -1,5 +1,3 @@
-##List of required Python libraries.
-
 pandas
 numpy
 matplotlib
